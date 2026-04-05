@@ -1,0 +1,104 @@
+LENIX PASSWORD POLICY TOOL
+End User License Agreement (EULA)
+
+© Stevic Vladan – All Rights Reserved
+
+---
+
+## 1. GENERAL
+
+This software ("Tool") is provided by Stevic Vladan (hereinafter referred to as the "Developer").
+
+"Lenix Network Solutions" is currently a project or brand name and does not represent a registered company.
+
+By using this software, you agree to the following terms.
+
+---
+
+## 2. LICENSE GRANT
+
+This Tool is provided free of charge.
+
+You are granted a non-exclusive, non-transferable right to use this software.
+
+You are allowed to:
+
+* use the software in private and business environments
+* use it for password policy and security purposes
+* use it internally within your organization
+
+---
+
+## 3. RESTRICTIONS
+
+You are NOT allowed to:
+
+* sell or commercially distribute the software
+* publish it as your own software
+* modify, reverse engineer, or decompile the software
+* integrate it into other software without permission
+* redistribute it without explicit approval from the Developer
+
+---
+
+## 4. COPYRIGHT
+
+This software is **NOT open-source**.
+
+All rights to the source code, design, and concept are owned exclusively by:
+
+Stevic Vladan
+
+---
+
+## 5. DISCLAIMER
+
+This software is provided "as is".
+
+The Developer assumes **no liability** for:
+
+* misuse of the software
+* illegal usage
+* damages of any kind
+* data loss
+* system failures
+
+This tool may only be used in authorized environments.
+
+---
+
+## 6. WARRANTY
+
+No warranty is provided regarding:
+
+* functionality
+* error-free operation
+* availability
+
+---
+
+## 7. CHANGES
+
+The Developer reserves the right to:
+
+* modify the software at any time
+* update features
+* change this license
+
+---
+
+## 8. JURISDICTION
+
+This agreement is governed by the laws of Austria.
+
+---
+
+## 9. CONTACT
+
+Stevic Vladan
+Email: [info@lenix.at](mailto:info@lenix.at)
+Website: [www.lenix.at](http://www.lenix.at)
+
+---
+
+Version: 2.6
