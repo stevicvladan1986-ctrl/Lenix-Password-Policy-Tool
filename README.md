@@ -27,8 +27,9 @@ This tool helps identify and block weak or company-related passwords.
 2. Select options
 3. Click “Generate deny list”
 4. Export the result
-
----
+   
+SHA256-Hash von Lenix_PWD_Policy_Tool_v2.6.zip
+464a229b45219fe7155e4fbeaf476fd62c8561f5fd9b3be27fd0eb47a6630f37
 
 ## ❤️ Support
 
