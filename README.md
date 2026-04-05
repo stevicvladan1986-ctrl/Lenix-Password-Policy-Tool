@@ -1,3 +1,5 @@
+![Lenix Tool](screenshot.png)
+
 ## ✨ Description
 
 A GUI tool for generating custom password deny lists for enterprise environments.
