@@ -1,6 +1,4 @@
-# 🔐 Lenix Password Policy Tool
----
-# 🇬🇧 English
+![App Screenshot](./images/screenshot.png)
 
 ## ✨ Description
 
