@@ -1,4 +1,5 @@
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot_V3.0_01.png)
+![App Screenshot](./Screenshot_V3.0_02.png)
 
 # 🚀 Lenix Password Policy Tool v3.0
 
